@@ -8,3 +8,5 @@ This script serves as a foundation for creating customized automation tailored t
 Change RGB values to whatever you want or are using
 Change Pointer Positions to the ones you are using
 Change Keys pressed to yours
+
+https://www.youtube.com/watch?v=qrW1w230JD4&t=335s
