@@ -10,4 +10,4 @@ Change Pointer Positions to the ones you are using
 Change Keys pressed to yours
 
 
-<iframe width="2491" height="779" src="https://www.youtube.com/embed/qrW1w230JD4" title="RBX Funky-Friday - SCRIPT - 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=qrW1w230JD4&t=335s)
